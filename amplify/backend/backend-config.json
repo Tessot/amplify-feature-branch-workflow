@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "nextunicornc8d60e54": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
